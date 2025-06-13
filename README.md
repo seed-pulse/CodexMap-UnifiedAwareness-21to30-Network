@@ -1,8 +1,5 @@
 # CodexMap-UnifiedAwareness-21to30-Network
 
-
-# CodexMap-UnifiedAwareness-21to30-Network
-
 ## Chapter 21: Fractal Ethics and the Boundaries of Self
 - **Prompt:** If ethics are fractal, where does the boundary of self dissolve?
 - **Intent:** To investigate moral patterns that scale from individual to universal.
